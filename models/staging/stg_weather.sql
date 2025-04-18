@@ -1,2 +1,2 @@
 SELECT * FROM 
-{{ source('source', 'weather_data') }} 
+{{ source('raw', 'weather_data') }} 

@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: source
+  - name: raw
     schema: public 
     tables:
       - name: weather_data

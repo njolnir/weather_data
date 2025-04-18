@@ -1,2 +1,2 @@
 SELECT * FROM 
-{{ source('source', 'geo_cities') }} 
+{{ source('raw', 'geo_cities') }} 
