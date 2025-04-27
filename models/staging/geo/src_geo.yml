@@ -4,5 +4,4 @@ sources:
   - name: raw
     schema: public 
     tables:
-      - name: weather_data
       - name: geo_cities
